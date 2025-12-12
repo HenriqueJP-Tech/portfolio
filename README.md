@@ -37,14 +37,14 @@ Ele contém:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/HenriqueJP-Tech/portfolio
 
 # Entre na pasta
-cd seu-repositorio
+cd portfolio
 
 # Instale as dependências
 npm install
 
 # Rode o projeto
 npm start
-# portfolio
+
