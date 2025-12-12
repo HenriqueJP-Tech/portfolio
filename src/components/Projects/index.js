@@ -37,7 +37,7 @@ const projects = [
 
 export default function ProjectCardGrid() {
   return (
-    <section className="projects-section">
+    <section className="projects-section" id="projects">
       <h2 className="projects-title">Projetos</h2>
 
       <div className="projects-grid">

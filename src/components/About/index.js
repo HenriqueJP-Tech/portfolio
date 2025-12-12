@@ -3,7 +3,7 @@ import { FaSmile, FaEnvelope, FaInstagram, FaLinkedin } from "react-icons/fa";
 
 export default function AboutMe() {
   return (
-    <section className="about-section">
+    <section className="about-section" id="about">
       <h2 className="title">Sobre mim</h2>
 
       <p className="description">

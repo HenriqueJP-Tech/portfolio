@@ -6,11 +6,11 @@ export default function Navbar() {
       <h1 className="logo">Tech Rique</h1>
 
       <ul className="nav-links">
-        <li><a href="#inicio">Início</a></li>
-        <li><a href="#sobre">Sobre Mim</a></li>
-        <li><a href="#projetos">Projetos</a></li>
-        <li><a href="#servicos">Serviços</a></li>
-        <li><a href="#habilidades">Habilidades</a></li>
+        <li><a href="#hero">Início</a></li>
+        <li><a href="#about">Sobre Mim</a></li>
+        <li><a href="#projects">Projetos</a></li>
+        <li><a href="#services">Serviços</a></li>
+        <li><a href="#skills">Habilidades</a></li>
       </ul>
     </nav>
   );

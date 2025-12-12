@@ -1,0 +1,39 @@
+.services-section {
+  padding: 80px 40px;
+  color: #ffffff;
+}
+
+.services-title {
+  text-align: center;
+  font-size: 2.3rem;
+  margin-bottom: 50px;
+  color: #8affc1;
+}
+
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 40px;
+}
+
+.service-card {
+  background: #0b0b0b;
+  border: 1px solid #1a1a1a;
+  border-bottom: 2px solid #8affc1;
+  border-radius: 10px;
+  padding: 50px 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: flex-start;
+}
+
+.service-icon {
+  font-size: 2.6rem;
+  color: #8affc1;
+}
+
+.service-text {
+  font-size: 1.7rem;
+  line-height: 1.3;
+}
