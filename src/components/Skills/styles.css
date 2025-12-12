@@ -1,0 +1,33 @@
+.skills-section {
+  padding: 80px 40px;
+}
+
+.skills-title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+  color: #8affc1;
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 30px;
+  justify-items: center;
+}
+
+.skill-card {
+  width: 140px;
+  height: 140px;
+  background: #0b0b0b;
+  border-radius: 12px;
+  border: 1px solid #1a1a1a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.skill-icon {
+  font-size: 60px;
+  color: #8affc1;
+}

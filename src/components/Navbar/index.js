@@ -3,7 +3,7 @@ import "./styles.css";
 export default function Navbar() {
   return (
     <nav className="navbar">
-      <h1 className="logo">Tech Rique</h1>
+      <h1 className="logo" onClick={() => document.getElementById("hero").scrollIntoView({behavior: "smooth"})}>Tech Rique</h1>
 
       <ul className="nav-links">
         <li><a href="#hero">Início</a></li>

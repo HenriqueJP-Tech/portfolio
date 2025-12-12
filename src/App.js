@@ -5,6 +5,7 @@ import Hero from './components/Hero';
 import About from "./components/About";
 import Projects from "./components/Projects"
 import Services from "./components/Services"
+import Skills from "./components/Skills"
 
 export default function Portfolio() {
   return (
@@ -14,6 +15,7 @@ export default function Portfolio() {
       <About />
       <Projects />
       <Services />
+      <Skills />
     </div>
   );
 }
