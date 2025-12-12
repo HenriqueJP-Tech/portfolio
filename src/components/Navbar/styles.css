@@ -19,9 +19,9 @@
 }
 
 .logo {
-  font-size: 18px;
+  font-size: 28px;
   font-weight: bold;
-  color: white;
+  color: #8affc1;
   cursor: pointer;
 }
 
@@ -38,11 +38,12 @@
   padding: 6px 10px;
   border-radius: 5px;
   transition: 0.3s;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .nav-links a:hover {
   background: #ffffff10;
+  color: #8affc1;
 }
 
 
